@@ -1,0 +1,5 @@
+streamlit
+pyngrok
+tensorflow
+numpy
+pillow
